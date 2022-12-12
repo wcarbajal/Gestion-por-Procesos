@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "text": "# Muestra",
+      "type": "text",
+      "id": "Field_1xmfgcr"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_15dfdyk",
+      "key": "keyNombre"
+    },
+    {
+      "label": "DNI",
+      "type": "number",
+      "id": "Field_0nk6cz1",
+      "key": "keyDNI"
+    },
+    {
+      "values": [
+        {
+          "label": "Value",
+          "value": "value"
+        }
+      ],
+      "label": "Radio",
+      "type": "radio",
+      "id": "Field_162zttl",
+      "key": "keyValue",
+      "defaultValue": "value",
+      "disabled": true
+    }
+  ],
+  "type": "default",
+  "id": "Form_1rw56hu",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
